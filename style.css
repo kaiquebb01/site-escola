@@ -1,26 +1,24 @@
 * {
-margin:o 16px;
-pading: 24PX o ;
-};
-.cabeçalho {;
-    width: 100%;
-    background-color:#33d5o;
-    color:white; 
-    display:flex;
-    justify-contente:space-around;
-    padding: 24PX o ; };
-    {
-        widh : 20%; } cabecalho-lista-item {
-            widh: 20%;
+    margin:o 16px;
+    pading: 24PX o ;
+    };
+    .cabeçalho {
+        width: 100%;
+        background: color #33d503;;
+        color:white; 
+        display:flex;
+        justify-contente:space-around;
+        padding: 24PX o ;
         }
-    } cabecalho-lista-item {
+cabecalho-imagem{
+    widh: 20%;
+            }
+.cabecalho-lista-item {
     display: inline-black;
-    {
-    cabecalho-lista.item {
-    display:inline-black;
-    margin; o 16PX;
-    padding: 24PX 0;
-    font-size :24PX;
-    {
-    
-    
+    }
+    .cabecalho-lista-item{
+        display: inline-black;
+        margin: 0 16px;
+        padding: 24PX 0;
+        font-size: 24PX;
+    }
